@@ -1,0 +1,12 @@
+2020-02-26 08:46:46 DEBUG Generatecost :12 - Total price1500.0
+2020-02-26 08:46:46 DEBUG Generatecost :12 - Total price3600.0
+2020-02-26 08:46:46 DEBUG Generatecost :12 - Total price10000.0
+2020-02-26 08:46:46 DEBUG Generatecost :12 - Total price3600.0
+2020-02-26 08:50:53 DEBUG CalculateIntrest :18 - Simple_Interest10778.50486232207
+2020-02-26 08:50:53 DEBUG CalculateIntrest :11 - Simple_Interest10500.0
+2020-02-26 08:56:40 DEBUG CalculateIntrest :18 - Simple_Interest10778.50486232207
+2020-02-26 08:56:40 DEBUG CalculateIntrest :11 - Simple_Interest10500.0
+2020-02-26 08:56:40 DEBUG Generatecost :12 - Total price1500.0
+2020-02-26 08:56:40 DEBUG Generatecost :12 - Total price3600.0
+2020-02-26 08:56:40 DEBUG Generatecost :12 - Total price10000.0
+2020-02-26 08:56:40 DEBUG Generatecost :12 - Total price3600.0
